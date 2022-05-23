@@ -1,4 +1,4 @@
-# Deep Learning Algorithms
+# Deep Learning 🧠 Algorithms
 Contains deep learning algorithms - the syntax and their application by solving a problem
 
 ## Multi Layer Perceptron Classifier
@@ -8,3 +8,5 @@ Contains deep learning algorithms - the syntax and their application by solving 
 ## Multi Layer Perceptron Regressor
 1. Contains the syntax of creating a basic Multi Layer Perceptron Regressor model to predict the output of a dataset created using make_regression
 2. The application of the Multi Layer Perceptron Regressor Model to predict the category of the boston dataset
+
+## Artificial Neural Network (using Keras)
