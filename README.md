@@ -9,4 +9,7 @@ Contains deep learning algorithms - the syntax and their application by solving 
 1. Contains the syntax of creating a basic Multi-Layer Perceptron Regressor model to predict the output of a dataset created using make_regression
 2. The application of the Multi-Layer Perceptron Regressor Model to predict the category of the Boston dataset
 
+## Convolutional Neural Network
+1. The application of the Convolutional Neural Network to predict the output of the MNIST dataset
+
 ## Artificial Neural Network (using Keras)
